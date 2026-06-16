@@ -1,2 +1,28 @@
-# 82c3af07-mining-natural-resources-par
-Tired of chasing down partnership payouts and juggling dozens of spreadsheets for your mining and natural resources deals? The Mining &amp; Natural Resources Partnership and Affiliate Management Notion Template consolidates every partner, contract, and commission into one automated hub.  This template eliminates manual tracking errors and delayed payme
+# Mining & Natural Resources Partnership and Affiliate Management Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI00j6mXbUE2hi47qd0k0H)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI00j6mXbUE2hi47qd0k0H)
+
